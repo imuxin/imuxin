@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about `openstack keystone`, `cpython`
+- 💬 Ask me about [`🐢openstack keystone`](https://github.com/openstack/keystone), [`🐍cpython`](https://github.com/python/cpython)
 
 <!--
 **imuxin/imuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
