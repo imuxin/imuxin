@@ -1,19 +1,9 @@
 ### Hi there 👋
 
-- 💬 Ask me about [`🐢openstack keystone`](https://github.com/openstack/keystone), [`🐍cpython`](https://github.com/python/cpython), [`typescript`](https://github.com/microsoft/typescript), [`golang`](https://github.com/golang/go)
-- Blog: https://imuxin.github.io/cottage/
-
-<!--
-**imuxin/imuxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Blog: https://imuxin.github.io, it's being work in progress.
+- 🌱 I'm currently leaning Rust, C++.
+- 🤔 Since open source projects are springing up, as a human being with only a few decades life, we can not master all of them. I would say there must be some basic, shared and simple core thinkings or some theoretical methods. I will spend all my life on feagure out the nature of CS. I would start with research CS development history.
+- 🔭{WIP} Make a serial tutorial with topic build * to master a programming language.
+- 🔭{WIP} Build a `todo` command line tools to manage personal tasks. I would intergrate with [nullboard](https://github.com/apankrat/nullboard), because I like its simple design.
+- 🔭{WIP} Build a `gitQL` to help quick understand an unfamiliar project based on git source controll. And I would intergrate with [metabase](https://github.com/metabase/metabase).
+- 📫 How to reach me: Send email!
