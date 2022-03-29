@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📜 Blog: https://imuxin.github.io, it's being work in progress.
-- 🌱 I'm currently leaning Rust, C++.
+- 🌱 I'm currently leaning [Clojure](https://clojure.org/), [Rust](https://www.rust-lang.org/), [C++](https://en.cppreference.com/w/).
 - 🤔 Since open source projects are springing up, as a human being with only a few decades life, we can not master all of them. I would say there must be some basic, shared and simple core thinkings or some theoretical methods. I will spend all my life on feaguring out the essence of CS. I would start with research CS development history.
 - 🤟 [No Silver Bullet – Essence and Accident in Software Engineering](https://en.wikipedia.org/wiki/No_Silver_Bullet)
 - 💡 Make a serial tutorial with topic build * to master a programming language. ⏳
