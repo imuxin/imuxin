@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 💪 [Go](https://go.dev/), [Python](https://www.python.org/), [TypeScript](https://www.typescriptlang.org/), [Rust](https://github.com/rust-lang/rust).
+- 💪 [Go](https://go.dev/), [Python](https://www.python.org/), [TypeScript](https://www.typescriptlang.org/), [Rust](https://github.com/rust-lang/rust), [C++](https://en.cppreference.com/w/), [Clojure](https://clojure.org/), .[V](https://github.com/vlang/v).
+- 📜 Blog (🆕): https://imuxin.gitbook.io/.
 - 📜 Blog: https://imuxin.github.io.
-- 🐾 I'm currently leaning [C++](https://en.cppreference.com/w/), [Clojure](https://clojure.org/).
+- 🐾 I'm currently leaning [zig](https://github.com/ziglang/zig).
 - 🤔 Since open source projects are springing up, as a human being with only a few decades life, we can not master all of them. I would say there must be some basic, shared and simple core thinkings or some theoretical methods. I will spend all my life on feaguring out the essence of CS. I would start with research CS development history.
 - 🤟 [No Silver Bullet – Essence and Accident in Software Engineering](https://en.wikipedia.org/wiki/No_Silver_Bullet)
 - 💡 Ideas(WIP)
